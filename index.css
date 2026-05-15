@@ -25,6 +25,12 @@ main section{
     border-radius: var(--border-radius-md);
     cursor: pointer;
 }
+#reset-btn{
+    background-color: #dc3545;
+}
+#download-btn{
+    background-color: #28a745;
+}
 main section .top{
    display: flex;
     align-items: center;
